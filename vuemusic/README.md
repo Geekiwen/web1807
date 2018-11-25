@@ -1,6 +1,6 @@
 # vuepc
 
-> A Vue.js project
+> 这是一个Vue的音乐项目
 
 ## Build Setup
 
